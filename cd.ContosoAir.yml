@@ -18,6 +18,7 @@ resources:
 
 
 pool:
+  name: azure pipelines
   vmImage: ubuntu-latest
 
 steps:
